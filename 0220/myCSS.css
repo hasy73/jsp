@@ -1,0 +1,18 @@
+@charset "utf-8";
+.myPic {
+	margin: 20px;
+	border: 10px solid #FFF;
+	float: left;
+	box-shadow:5px 5px 5px 5px #666666
+}
+.myText{
+	background-color: #FCF;
+	margin: 5px;
+	padding: 5px;
+	border: 1px dashed #666;
+}
+.myLine{
+	line-height: 35px;
+	margin-top: 50px;
+	color: #666;
+}
